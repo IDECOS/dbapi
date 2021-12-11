@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Cafe Palomino",
+      "description": "La escencia del paisaje cultural",
+      "ubicacion": "xx",
+      "temperatura": "19°C a 21°C"	  
+    },
+    {
+      "id": 2,
+      "name": "Basilica San Luis Gonzaga",
+      "description": "Templo principal del municipio",
+      "ubicacion": "xx",
+      "temperatura": "19°C a 21°C"  
+    },
+    {
+      "id": 3,
+      "name": "Mirador Alto de la Cruz",
+      "description": "Vista 360 de sevilla y el valle",
+      "ubicacion": "xx",
+      "temperatura": "19°C a 21°C"	  
+    },
+	{
+      "id": 4,
+      "name": "Humedal Siracusa",
+      "description": "Pulmon urbano de sevilla",
+      "ubicacion": "xx",
+      "temperatura": "19°C a 21°C"	  
+    },
+    {
+      "id": 5,
+      "name": "Paramo Chilli Barragan",
+      "description": "Hace parte de parques nacionales",
+      "ubicacion": "xx",
+      "temperatura": "19°C a 21°C"	  
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
