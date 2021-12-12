@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Cafe Palomino",
-      "description": "Café Palomino, agradable espacio para compartir y disfrutar con la tranquilidad del paisaje cafetero dentro de la ciudad, diferentes ambientes para amigos, familias o celebraciones especiales.",
+      "description": "Cafe Palomino, agradable espacio para compartir y disfrutar con la tranquilidad del paisaje cafetero dentro de la ciudad, diferentes ambientes para amigos, familias o celebraciones especiales.",
       "image": "https://avataresweb.com/app/palomino.jpg",
       "geo": "4.272487,-75.935547",
       "temperatura": "19°C a 21°C",
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "name": "Basilica San Luis Gonzaga",
-      "description": "Templo principal del municipio",
+      "description": "Templo de arquitectura neogotico, designado Basilica Menor el 19 de noviembre de 2015",
       "image": "https://avataresweb.com/app/basilica.jpg"
       "geo": "4.2640223,-75.9368781",
       "temperatura": "19°C a 21°C",
@@ -21,7 +21,7 @@
     {
       "id": 3,
       "name": "Mirador Alto de la Cruz",
-      "description": "Vista 360 de sevilla y el valle",
+      "description": "Mall de comidas rapidas y cafes especiales, ubicado en una de las zonas mas altas del municipio, desde donde se aprecia Sevilla casi en su totalidad y gran parte del centro del Valle",
       "image": "https://avataresweb.com/app/mirador.jpg"
       "geo": "4.2674924,-75.9437475",
       "temperatura": "19°C a 21°C",
@@ -30,7 +30,7 @@
 	{
       "id": 4,
       "name": "Humedal Siracusa",
-      "description": "Pulmon urbano de sevilla",
+      "description": "Pulmon urbano de Sevilla, ubicado a pocas cuadras del centro del municipio, cuenta con un recorrido ecologico guiado, varidad de flora y fauna, principalmente aves. Se tiene registro de mas de 150 especies",
       "image": "https://avataresweb.com/app/humedal.jpg"
       "geo": "4.2689476,-75.9332977",
       "temperatura": "19°C a 21°C",
@@ -39,7 +39,7 @@
     {
       "id": 5,
       "name": "Paramo Chilli Barragan",
-      "description": "Hace parte de parques nacionales",
+      "description": "Hace parte de Parques Nacionales, se encuentra el Valle de los Frailejones y gran cantidad de cascadas y lagunsa de gran belleza y riqueza natural",
       "image": "https://avataresweb.com/app/paramo.jpg"
       "geo": "4.046081918388704,-75.75583934783937",
       "temperatura": "1°C a 12°C",
