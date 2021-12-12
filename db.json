@@ -3,48 +3,57 @@
     {
       "id": 1,
       "name": "Cafe Palomino",
-      "description": "buen sitio",
-      "image": "https://cafepalomino.com/wp-content/uploads/2021/05/terraza-sendero064.jpg",
-      "ubicacion": "4.272487,-75.935547",
-      "temperatura": "19°C a 21°C"	  
+      "description": "Café Palomino, agradable espacio para compartir y disfrutar con la tranquilidad del paisaje cafetero dentro de la ciudad, diferentes ambientes para amigos, familias o celebraciones especiales.",
+      "image": "https://avataresweb.com/app/palomino.jpg",
+      "geo: "4.272487,-75.935547",
+      "temperatura": "19°C a 21°C",
+      "qualification": 4
     },
     {
       "id": 2,
       "name": "Basilica San Luis Gonzaga",
       "description": "Templo principal del municipio",
-      "ubicacion": "xx",
-      "temperatura": "19°C a 21°C"  
+      "image": "https://avataresweb.com/app/basilica.jpg"
+      "geo: "4.2640223,-75.9368781",
+      "temperatura": "19°C a 21°C",
+      "qualification": 4
     },
     {
       "id": 3,
       "name": "Mirador Alto de la Cruz",
       "description": "Vista 360 de sevilla y el valle",
-      "ubicacion": "xx",
-      "temperatura": "19°C a 21°C"	  
+      "image": "https://avataresweb.com/app/mirador.jpg"
+      "geo: "4.2674924,-75.9437475",
+      "temperatura": "19°C a 21°C",
+      "qualification": 5
     },
 	{
       "id": 4,
       "name": "Humedal Siracusa",
       "description": "Pulmon urbano de sevilla",
-      "ubicacion": "xx",
-      "temperatura": "19°C a 21°C"	  
+      "image": "https://avataresweb.com/app/humedal.jpg"
+      "geo: "4.2689476,-75.9332977",
+      "temperatura": "19°C a 21°C",
+      "qualification": 4
     },
     {
       "id": 5,
       "name": "Paramo Chilli Barragan",
       "description": "Hace parte de parques nacionales",
-      "ubicacion": "xx",
-      "temperatura": "19°C a 21°C"	  
+      "image": "https://avataresweb.com/app/paramo.jpg"
+      "geo: "4.046081918388704,-75.75583934783937",
+      "temperatura": "1°C a 12°C",
+      "qualification": 5
     }
   ],
   "comments": [
     {
       "id": 1,
-      "body": "some comment",
+      "body": "Datos app Sevilla Gurpo IDECOS",
       "postId": 1
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "typicode IDECOS"
   }
 }
